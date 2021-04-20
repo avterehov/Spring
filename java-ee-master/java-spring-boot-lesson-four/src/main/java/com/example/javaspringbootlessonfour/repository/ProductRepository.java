@@ -1,5 +1,6 @@
-package com.example.model;
+package com.example.javaspringbootlessonfour.repository;
 
+import com.example.javaspringbootlessonfour.entities.Product;
 import org.springframework.stereotype.Repository;
 
 import javax.annotation.PostConstruct;
